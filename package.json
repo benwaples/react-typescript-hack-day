@@ -1,0 +1,19 @@
+{
+  "name": "react-typescript-hack-day",
+  "version": "1.0.0",
+  "description": "## Background",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -p .",
+    "start": "ts-node index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.6.0",
+    "@typescript-eslint/parser": "^4.6.0",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.5"
+  }
+}
